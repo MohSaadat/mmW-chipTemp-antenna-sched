@@ -12,9 +12,5 @@ Objective: We aim to minimize the maximum temperature reached by the antenna chi
 
 System Model: We assume a standard hand-held mobile communication module, transmitting and receiving on the 60GHz radio channel, one of the millimeter wave channels that are being pitched for next generation Wireless Networking for multi-gigabits throughput. We assume four sets of millimeter wave antenna arrays equip the mobile device- a convenient design to offer the option of scheduling between the arrays to keep the maximum temperature reached by any of the antenna arrays at tolerable levels. It can be assumed that switching transmission/reception between the arrays is instantaneous and consumes no additional power when the switching is done intermittently. 
 
-System Parameters: 
-Number of Antenna Arrays on the Mobile Device = 4
-Number of time slots experiments are run for = 10
-Average time slot length = 5.73s //variable
-Maximum Length of a time slot = 10s //variable
-Probability of blockage of any antenna array at any given time = 0.2 //variable
+To access our temperature characterization dataset, follow the link: https://syrex.cse.sc.edu/awards/nsf1910853/#nsf1910853_codedata
+To access our antenna scheduler, Aquilo, code, follow the link: https://syrex.cse.sc.edu/awards/nsf1910853/#nsf1910853_codedata
