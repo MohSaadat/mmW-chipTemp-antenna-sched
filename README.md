@@ -1,12 +1,6 @@
 # mmW-chipTemp-antenna-sched
 Adaptive Antenna Scheduling to minimize chip temperature in mm Wave mobile Devices
 
-Contributor: Moh Sabbir Saadat
-
-Supervisor: Dr. Sanjib Sur, University of South Carolina
-
-Other contributors: Dr. Srihari Nelakuditi, University of South Carolina
-
 Tags: mmWave, Mobile, antenna chip temperature, antenna scheduling
 
 Issue: Our investigation shows that due to high throughput and small chip size, millimeter wave communication modules reach excessively high temperature in prolonged usage.   
